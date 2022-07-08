@@ -52,3 +52,9 @@ body{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
+footer{
+    background-color: salmon;
+    color: rgb(41, 40, 40);
+    padding: 50px;
+    text-align: center;
+}
