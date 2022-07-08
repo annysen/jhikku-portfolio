@@ -1,11 +1,12 @@
 body{
-font-family: 'Secular One', sans-serif;
+    font-family: 'Secular One', sans-serif;
+    margin: 0;
 }
 .container{
     display: flex;
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
 .mid-banner{
@@ -45,4 +46,7 @@ font-family: 'Secular One', sans-serif;
 }
 #second-half-image{
     width: 100%;
+}
+.secound-half-text{
+    padding-right: 50px;
 }
